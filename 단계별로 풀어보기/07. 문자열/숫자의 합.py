@@ -7,5 +7,5 @@ for i in b:
 print(sum)
 
 # 숏코딩.. 
-input()
-print(sum(map(int,input())))
+# input()
+# print(sum(map(int,input())))
